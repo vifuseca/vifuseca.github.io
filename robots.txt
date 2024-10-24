@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://vifuseca.github.io/sitemap/sitemap_index.vifuseca
+Sitemap: https://vifuseca.github.io/BHn/sitemap_index.vifuseca
+Sitemap: https://vifuseca.github.io/sxO/sitemap_index.vifuseca
+Sitemap: https://vifuseca.github.io/yBT/sitemap_index.vifuseca
+Sitemap: https://vifuseca.github.io/wKT/sitemap_index.vifuseca
+Sitemap: https://vifuseca.github.io/vfL/sitemap_index.vifuseca
+Sitemap: https://vifuseca.github.io/jfO/sitemap_index.vifuseca
+Sitemap: https://vifuseca.github.io/YjU/sitemap_index.vifuseca
+Sitemap: https://vifuseca.github.io/jsR/sitemap_index.vifuseca
+Sitemap: https://vifuseca.github.io/xOk/sitemap_index.vifuseca
+Sitemap: https://vifuseca.github.io/pFE/sitemap_index.vifuseca
+Sitemap: https://vifuseca.github.io/AZT/sitemap_index.vifuseca
+Sitemap: https://vifuseca.github.io/DTR/sitemap_index.vifuseca
+Sitemap: https://vifuseca.github.io/RLA/sitemap_index.vifuseca
+Sitemap: https://vifuseca.github.io/lXi/sitemap_index.vifuseca
+Sitemap: https://vifuseca.github.io/mhb/sitemap_index.vifuseca
+Sitemap: https://vifuseca.github.io/Bgj/sitemap_index.vifuseca
+Sitemap: https://vifuseca.github.io/hxN/sitemap_index.vifuseca
+Sitemap: https://vifuseca.github.io/KWl/sitemap_index.vifuseca
+Sitemap: https://vifuseca.github.io/YPG/sitemap_index.vifuseca
+Sitemap: https://vifuseca.github.io/cIP/sitemap_index.vifuseca
